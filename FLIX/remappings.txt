@@ -1,0 +1,4 @@
+forge-std/=lib/forge-std/src/
+contracts/interface/=src/interface/
+contracts/LinearVesting.sol/=src/LinearVesting.sol/
+@openzeppelin/=lib/@openzeppelin/
