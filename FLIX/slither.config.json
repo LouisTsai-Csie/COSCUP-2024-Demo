@@ -1,0 +1,5 @@
+{
+    "filter_paths": "lib",
+    "remappings": ["@openzeppelin/=lib/@openzeppelin/"]
+}
+  
