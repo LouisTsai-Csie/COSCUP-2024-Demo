@@ -25,3 +25,18 @@
 | 2024-02-10 | FLIX | 200K | Ethereum | Access Control | [PoC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/README.md#20240210-filx-dn404---access-control) |
 | 2024-04-30 | Pike Finance | 1.4 M | Ethereum | Storage Collision | [PoC](https://github.com/SunWeb3Sec/DeFiHackLabs/blob/main/README.md#20240430-pikefinance---uninitialized-proxy) |
 
+## Note
+
+Use `solc-select` to set certain solidity compiler version
+
+1. Install necessary compiler version
+```bash
+solc-select install <version>
+```
+
+2. Set certain compiler version
+```bash
+solc-select use <version>
+```
+
+* You can use `solc --version` to check current version.
