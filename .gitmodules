@@ -1,0 +1,3 @@
+[submodule "FLIX/lib/forge-std"]
+	path = FLIX/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
