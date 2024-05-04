@@ -4,3 +4,6 @@
 [submodule "demo/lib/forge-std"]
 	path = demo/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "audius/lib/forge-std"]
+	path = audius/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
