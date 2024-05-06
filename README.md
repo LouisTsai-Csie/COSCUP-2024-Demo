@@ -1,5 +1,9 @@
 # COSCUP-2024-Demo
 
+## Introduction
+
+It is the demonstration repository for *Exploring Contract Analysis Tools by Unveiling Real-World Upgradeable Proxy Vulnerabilities*, *COSCUP 2024 Blockchain and Distributed Ledger*
+
 ## Preliminaries
 
 1. Git / GitHub Account
